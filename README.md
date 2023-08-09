@@ -1,0 +1,1 @@
+ this Python-based Tic-Tac-Toe game developed using Tkinter and the Minimax algorithm offers two distinct gameplay modes: Player vs. Player and Player vs. Computer. The graphical interface, powered by Tkinter, 
